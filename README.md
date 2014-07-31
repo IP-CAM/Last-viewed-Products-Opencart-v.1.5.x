@@ -1,4 +1,4 @@
-ultimos-produtos-visualizados
+Últimos produtos visualizados
 =============================
 
-Últimos Produtos Visualizados
+Este módulo tem o objetivo de exibir para o cliente da loja, os últimos produtos que ele visualizou.
