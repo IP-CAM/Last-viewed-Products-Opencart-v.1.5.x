@@ -1,6 +1,6 @@
-### Resumo
+### Compatibilidade
 
-Este módulo tem o objetivo de exibir na loja os últimos produtos visualizados pelo vistante ou cliente.
+ OpenCart 1.5.1.3 ou superior.
 
 ### Funcionalidades
 
