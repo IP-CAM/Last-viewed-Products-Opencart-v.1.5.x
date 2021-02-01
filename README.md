@@ -1,26 +1,26 @@
-### Compatibilidade
+### Compatibility
 
- OpenCart 1.5.1.3 ou superior.
+ OpenCart 1.5.1.3 or higher.
 
-### Funcionalidades
+### Functionalities
 
- 1. Permiti definir o tamanho das imagens exibidas no módulo.
- 2. Permiti definir o limite de últimos produtos visualizados que serão exibidos.
- 3. Possibilidade de colocar em vários layouts e posições.
+ 1. Allowed to define the size of the images displayed in the module.
+ 2. I allowed to define the limit of last viewed products that will be displayed.
+ 3. Possibility of placing in various layouts and positions.
 
-### Dúvidas
+### Doubts
 
- 1. Envie os arquivos do módulo para o diretório raiz da sua loja.
- 2. Na administração da loja, acesse o menu Extensões->Módulos, e localize o módulo "Últimos Produtos Visualizados", e clique no link "Instalar".
- 3. Após instalar, clique no link "Editar", e na página de configuração do módulo clique no botão "Adicionar", preencha as configurações e depois clique no botão "Salvar".
- 4. Você pode adicionar o módulo em qualquer layout e em qualquer posição quantas vezes desejar, mas tem que adicionar pelo menos uma vez no layout "Product" ou "Produto" para o correto funcionamento do módulo.
+ 1. Upload the module files to your store's root directory.
+ 2. In the store administration, access the menu Extensions-> Modules, and locate the module "Last Viewed Products", and click on the link "Install".
+ 3. After installing, click on the "Edit" link, and on the module configuration page click on the "Add" button, fill in the settings and then click on the "Save" button.
+ 4. You can add the module in any layout and in any position as many times as you want, but you have to add it at least once in the "Product" or "Product" layout for the correct functioning of the module.
 
-### Como contribuir
+### How to contribute
 
- 1. Faça um Fork do projeto e edite os arquivos que desejar.
- 2. Faça um Pull para que suas sugestões de melhorias sejam avaliadas e aceitas, caso aprovadas.
+ 1. Fork the project and edit the files you want.
+ 2. Make a Pull so that your suggestions for improvements are evaluated and accepted, if approved.
 
-### Licença
+### License
 
-Mantido e revisado pela comunidade OpenCart Brasil.
-[GNU General Public License version 3 (GPLv3)](https://github.com/opencartbrasil/traducao/blob/master/LICENSE)
+Maintained and reviewed by the OpenCart Brasil community.
+[GNU General Public License version 3 (GPLv3)] (https://github.com/opencartbrasil/traducao/blob/master/LICENSE)
